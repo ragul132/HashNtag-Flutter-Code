@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gomeet.sql">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Gomeet.sql.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
